@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/emiryasar-mcp-code-analyzer-badge.png)](https://mseep.ai/app/emiryasar-mcp-code-analyzer)
+
 # MCP Code Analyzer
 The main purpose of the MCP tool is to adapt changes to the project intelligently. 
 For instance, when a code modification or structural adjustment is needed, it aims to ensure that other related usages are also updated accordingly.
